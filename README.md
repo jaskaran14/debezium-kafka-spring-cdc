@@ -34,7 +34,7 @@ Follow these steps to get the project up and running on your local machine.
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/jaskaran14/debezium-kafka-spring-cdc.git
 cd event-kafka
 ```
 
@@ -102,3 +102,4 @@ Contributions are welcome! Please feel free to submit a pull request.
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
 4. Push to the branch (`git push origin feature/AmazingFeature`).
 5. Open a pull request.
+
