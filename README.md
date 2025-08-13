@@ -1,4 +1,3 @@
-# debezium-kafka-spring-cdc
 # Event-Driven Microservice with Spring Boot, Kafka, and PostgreSQL
 
 A robust template for building event-driven microservices. This project demonstrates how to integrate a PostgreSQL database with an Apache Kafka messaging system using Spring Boot. It serves as a foundation for applications that react to data changes or business events in real-time.
@@ -103,4 +102,3 @@ Contributions are welcome! Please feel free to submit a pull request.
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
 4. Push to the branch (`git push origin feature/AmazingFeature`).
 5. Open a pull request.
-
